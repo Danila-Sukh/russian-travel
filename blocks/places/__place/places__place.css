@@ -2,7 +2,7 @@
   margin-top: 80px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: auto ;
+  grid-template-rows: auto;
   grid-gap: 40px 48px;
 }
 
@@ -28,7 +28,7 @@
   .places__place {
     margin-top: 48px;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: auto ;
+    grid-template-rows: auto;
     grid-gap: 32px 32px;
   }
 }
