@@ -1,0 +1,14 @@
+.header__link {
+  padding-left: 18px;
+  text-decoration: none;
+  color: #fff;
+  transition: all 200ms ease-in-out;
+}
+
+.header__link:hover {
+  opacity: .8;
+}
+
+.header__link:first-child {
+  padding-left: 0px;
+}
